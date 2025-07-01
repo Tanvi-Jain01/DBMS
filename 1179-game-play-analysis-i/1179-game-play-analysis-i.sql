@@ -2,3 +2,5 @@
 select (player_id), min(event_date) as `first_login`
 from Activity
 group by (player_id);
+
+#group by always gives distinct values.
