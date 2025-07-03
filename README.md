@@ -15,5 +15,6 @@ Database Practice to strong the core concepts.
 | [0182-duplicate-emails](https://github.com/Tanvi-Jain01/DBMS/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Tanvi-Jain01/DBMS/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Tanvi-Jain01/DBMS/tree/master/0196-delete-duplicate-emails) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Tanvi-Jain01/DBMS/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1179-game-play-analysis-i](https://github.com/Tanvi-Jain01/DBMS/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
